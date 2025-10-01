@@ -1,6 +1,6 @@
 # Fly Annihilator
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dhanushpatel-codiste/generated-app-20251001-130434)
 
 A fun, kid-friendly arcade game where you control a battleship to shoot down descending flies with a continuous laser beam.
 
@@ -78,4 +78,4 @@ This command will build the application and deploy it using Wrangler.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dhanushpatel-codiste/generated-app-20251001-130434)
